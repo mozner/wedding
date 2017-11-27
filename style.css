@@ -23,6 +23,10 @@ a{
 	text-decoration:none;
 }
 
+a:hover {
+  color: #eda087;
+  transition: color .15s ease-in-out;
+}
 .locations, .program, .gifts, .faq, .contact {
     width: 95%;
     margin: 1.5rem auto;
